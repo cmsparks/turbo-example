@@ -79,7 +79,7 @@ export default function Page(): JSX.Element {
       </div>
 
       <Button appName="docs" className={styles.button}>
-        Click me! Redeployed docs!
+        Click me! This is a new change to the docs project!
       </Button>
 
       <div className={styles.hero}>
