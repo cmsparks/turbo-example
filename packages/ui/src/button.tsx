@@ -12,7 +12,7 @@ export const Button = ({ children, className, appName }: ButtonProps) => {
   return (
     <button
       className={className}
-      onClick={() => alert(`Hello from your ${appName} app! Redeployed!`)}
+      onClick={() => alert(`Hello from your ${appName} app! New app changes!`)}
     >
       {children}
     </button>
