@@ -29,7 +29,7 @@ function Gradient({
 
 const LINKS = [
   {
-    title: "Docsedit",
+    title: "Docseditasdlkfj",
     href: "https://turbo.build/repo/docs",
     description: "Find in-depth information about Turborepo features and API.",
   },
